@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421DC280-CB69-48A3-BBA1-E683887AE383}|..\\lab05-3\\lab05-3.vcxproj|D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05-3\\lab05-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F2849-DB9E-4545-B810-98B11751E048}|..\\ConsoleApplication2\\ConsoleApplication2.vcxproj|D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CC7C1-4226-4D77-884B-F5F0F2E10DC1}|lab05.vcxproj|D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05\\lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D24CC7C1-4226-4D77-884B-F5F0F2E10DC1}|lab05.vcxproj|solutionrelative:lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab05-3.cpp",
+              "DocumentMoniker": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05-3\\lab05-3.cpp",
+              "RelativeDocumentMoniker": "..\\lab05-3\\lab05-3.cpp",
+              "ToolTip": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05-3\\lab05-3.cpp",
+              "RelativeToolTip": "..\\lab05-3\\lab05-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T09:32:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication2.cpp",
+              "DocumentMoniker": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T09:25:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab05.cpp",
+              "DocumentMoniker": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05\\lab05.cpp",
+              "RelativeDocumentMoniker": "lab05.cpp",
+              "ToolTip": "D:\\6711800001\\MIIA0106-2025-A\\lab5\\MIIA0106-2025-A\\lab05\\lab05.cpp",
+              "RelativeToolTip": "lab05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:54:47.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
